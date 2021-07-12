@@ -43,7 +43,7 @@
     "immutable": "4.0.0-rc.9",
     "jspdf": "2.3.1",
     "lattice": "~0.93.4",
-    "lattice-auth": "0.22.0",
+    "lattice-auth": "0.26.0",
     "lattice-sagas": "~0.67.3",
     "lattice-ui-kit": "~0.45.0",
     "lattice-utils": "~0.11.1",
